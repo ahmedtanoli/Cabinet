@@ -1,5 +1,9 @@
 package com.azkstudios.cabinet.operations
 
+/**
+ * Created by Ahmed Zaman on 28/06/2021.
+ */
+
 interface GetOperation {
     fun getInt(key: String?, defaultValue: Int): Int
     fun getString(key: String?, defaultValue: String?): String?

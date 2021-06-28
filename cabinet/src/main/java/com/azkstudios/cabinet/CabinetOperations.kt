@@ -2,7 +2,6 @@ package com.azkstudios.cabinet
 
 import android.content.Context
 import android.content.SharedPreferences
-import android.os.Build
 import android.util.Log
 import com.azkstudios.cabinet.operations.Operations
 import com.azkstudios.cabinet.operations.StoreOperation
